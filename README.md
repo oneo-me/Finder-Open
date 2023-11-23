@@ -13,8 +13,9 @@ Finder 中直接点击工具栏上的图标即可打开当前目录
 
 **目前实现**
 
--   在 VSCode 中打开当前目录
--   在 终端 中打开当前目录
+- **Open in VSCode**: 在 VSCode 中打开当前目录
+- **Open in Terminal**: 在 终端 中打开当前目录
+- **Open Readme**: 在 One Markdown 中打开当前目录中的 README.md 文件（如果不存在会自动创建
 
 **如何自定义**
 
